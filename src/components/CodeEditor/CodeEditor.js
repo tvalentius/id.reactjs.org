@@ -65,7 +65,7 @@ class CodeEditor extends Component {
           Babel tidak dapat dimuat.
           <br />
           <br />
-          Hal ini dapat disebabkan oleh <b>ad blocker</b>. Jika anda menggunakannya, 
+          Hal ini dapat disebabkan oleh <b>ad blocker</b>. Jika Anda menggunakannya, 
           harap masukkan id.reactjs.org ke <i>whitelist</i> agar contoh-contoh 
           <i>live code</i> dapat bekerja.
         </span>
@@ -105,7 +105,7 @@ class CodeEditor extends Component {
                 color: colors.white,
               }}>
               <MetaTitle onDark={true}>
-                Editor JSX Langsung
+                Editor JSX Interaktif
                 <label
                   css={{
                     fontSize: 14,
